@@ -1,0 +1,6 @@
+#compy:hover{
+  scale: 0.9;
+  background-color: white;
+  color: blue;
+  transition: 0.3s;
+}
